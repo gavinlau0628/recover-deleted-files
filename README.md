@@ -8,6 +8,7 @@ Tried with Windows system but it is harder to work with so I changed to OS X.
 
 
 ===Before using the script===
+
 1. Install Sleuthkit on Mac OSX:
 	a. Press Command+Space and type Terminal and press enter/return key.
 		Run in Terminal app:
@@ -38,6 +39,7 @@ Tried with Windows system but it is harder to work with so I changed to OS X.
 
 
 ===Executing the script===
+
 4. Example usage:
 
 MAC: Desktop user$ python recover_deleted_files.py -o -v SHARED.dmg
