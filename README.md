@@ -2,7 +2,7 @@
 A python script to recover deleted files from an image disk
 
 
-================================Please read this guide before using the script===============================
+==============Please read this guide before using the script=============
 
 Tried with Windows system but it is harder to work with so I changed to OS X.
 
@@ -40,7 +40,7 @@ Tried with Windows system but it is harder to work with so I changed to OS X.
 ===Executing the script===
 4. Example usage:
 
-C02S24TKG8WM:Desktop laug$ python Gavin_Lau_Final_Project.py -o -v SHARED.dmg
+MAC: Desktop user$ python recover_deleted_files.py -o -v SHARED.dmg
 
 
 
